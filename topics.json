@@ -1,0 +1,506 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": {
+        "cs": "Čipové technologie a polovodičové systémy",
+        "en": "Chip Technologies and Semiconductor Systems"
+      },
+      "annotation": {
+        "cs": "Reakce na globální nedostatek čipů a evropskou snahu o technologickou suverenitu. Zaměřujeme se na celý hodnotový řetězec, od návrhu architektury integrovaných obvodů (IC) až po vývoj nových materiálů a testování výkonové elektroniky pro automobilový a energetický průmysl.",
+        "en": "A response to the global chip shortage and the European drive for technological sovereignty. We focus on the complete value chain, from integrated circuit (IC) architecture design to the development of new materials and testing of power electronics for the automotive and energy industries."
+      },
+      "keywords": {
+        "cs": [
+          "Návrh a validace integrovaných obvodů (Chip Design)",
+          "Výkonová elektronika a nové substráty (GaN, SiC)",
+          "Mikrosystémy a senzory pro extrémní prostředí",
+          "Pokročilé pouzdření a heterogenní integrace",
+          "Čisté prostory a technologie výroby polovodičů"
+        ],
+        "en": [
+          "Integrated Circuit Design and Validation (Chip Design)",
+          "Power electronics and new substrates (GaN, SiC)",
+          "Microsystems and sensors for extreme environments",
+          "Advanced packaging and heterogeneous integration",
+          "Cleanrooms and semiconductor manufacturing technologies"
+        ]
+      },
+      "contact": {
+        "photo": "skotnicova.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/katerina-skotnicova/",
+        "cs": [
+          {
+            "name": "doc. Ing. Kateřina Skotnicová, Ph.D. ",
+            "email": "katerina.skotnicova@vsb.cz",
+            "bio": "Koordinátorka čipových technologií a polovodičových systémů s odborností v materiálových vědách a inženýrství. Zaměřuje se na vývoj a charakterizaci pokročilých materiálů pro technologicky náročné aplikace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Assoc. Prof. Ing. Kateřina Skotnicová, Ph.D. ",
+            "email": "katerina.skotnicova@vsb.cz",
+            "bio": "Coordinator of chip technologies and semiconductor systems with expertise in materials science and engineering. Focuses on the development and characterization of advanced materials for technologically demanding applications."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "cs": "Vesmírné technologie a průzkum",
+        "en": "Space Technologies and Exploration"
+      },
+      "annotation": {
+        "cs": "Pod vedením FEI vysílá univerzita experimenty na Mezinárodní vesmírnou stanici (ISS) v rámci misí Evropské vesmírné agentury (ESA). Náš výzkum integruje nanorobotiku, biomedicínu a senzoriku pro špičkový aplikovaný výzkum ve vesmíru.",
+        "en": "Under the leadership of FEI, the university sends experiments to the International Space Station (ISS) as part of European Space Agency (ESA) missions. Our research integrates nanorobotics, biomedicine, and sensing for cutting-edge applied research in space."
+      },
+      "keywords": {
+        "cs": [
+          "Orbitální nanorobotika (CONREX – první takový orbitální experiment na světě)",
+          "Inteligentní monitorování zdraví astronautů (projekt ISS T-shirt)",
+          "Hardware pro mikrosatelity a palubní systémy satelitů",
+          "Zpracování dat z pozorování Země pomocí superpočítačů",
+          "Materiály odolné vůči kosmickému záření a extrémním teplotám",
+          "Pokročilé zpracování signálů", 
+          "Inteligentní analýza dat"
+        ],
+        "en": [
+          "Orbital nanorobotics (CONREX—the world's first such orbital experiment)",
+          "Intelligent astronaut health monitoring (ISS T-shirt project)",
+          "Hardware for microsatellites and satellite onboard systems",
+          "Earth observation data processing using supercomputers",
+          "Materials resistant to cosmic radiation and extreme temperatures",
+          "Advanced signal processing",
+          "Intelligent data analysis"
+        ]
+      },
+      "contact": {
+        "photo": "martinek.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/konrad-pawel-konrad/",
+        "cs": [
+          {
+            "name": "prof. Ing. Radek Martinek, Ph.D.",
+            "email": "radek.martinek@vsb.cz",
+            "bio": "Radek Martinek je profesorem kybernetiky a děkanem Fakulty elektrotechniky a informatiky VŠB - Technické univerzity Ostrava. Zároveň působí jako univerzitní koordinátor pro oblast vesmírného výzkumu a je senior členem organizace IEEE. "
+          }
+        ],
+        "en": [
+          {
+            "name": "Prof. Ing. Radek Martinek, Ph.D.",
+            "email": "radek.martinek@vsb.cz",
+            "bio": "Radek Martinek is a professor of cybernetics and dean of the Faculty of Electrical Engineering and Computer Science at VŠB - Technical University of Ostrava. He also serves as the university's coordinator for space research and is a senior member of the IEEE. "
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "cs": "Obranné technologie a technologie dvojího užití",
+        "en": "Defense and Dual-use Technologies"
+      },
+      "annotation": {
+        "cs": "Výzkum zaměřený na zvyšování národní odolnosti a bezpečnosti v rámci programů NATO, DIANA a Evropského obranného fondu (EDF). Vyvíjíme autonomní systémy sloužící záchranným složkám i moderní obraně - od AI dronů po těžkou techniku na vodíkový pohon.",
+        "en": "Research focused on increasing national resilience and security within the framework of NATO DIANA and European Defence Fund (EDF) programs. We develop autonomous systems serving both emergency services and modern defense—from AI drones to heavy hydrogen-powered machinery."
+      },
+      "keywords": {
+        "cs": [
+          "Zpracování dat z rojů dronů pomocí umělé inteligence",
+          "Vodíková těžká vozidla s dálkovým ovládáním a autonomním řízením",
+          "Automatická detekce, klasifikace a lokalizace objektů v reálném čase",
+          "Kybernetická obrana a ochrana kritické infrastruktury",
+          "Materiály pro balistickou ochranu a maskování"
+        ],
+        "en": [
+          "Processing data from drone swarms using Artificial Intelligence",
+          "Hydrogen-powered heavy vehicles with remote control and autonomous driving",
+          "Real-time automatic detection, classification, and localization of objects",
+          "Cyber defense and protection of critical infrastructure",
+          "Materials for ballistic protection and camouflaging"
+        ]
+      },
+      "contact": {
+        "photo": "jan_necas.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/jan-necas/",
+        "cs": [
+          {
+            "name": "prof. Ing. Jan Nečas, Ph.D.",
+            "email": "jan.necas@vsb.cz",
+            "bio": "Koordinátor aktivit obranného výzkumu a výzkumu technologií dvojího užití. S mnohaletou zkušeností v oblasti obranných systémů a aktivní spolupráci napříč technologickým sektorem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prof. Jan Nečas, Ph.D.",
+            "email": "jan.necas@vsb.cz",
+            "bio": "Coordinator of defense research activities and dual-use technology research. With many years of experience in defense systems and active collaboration across the technology sector."
+          }
+        ]
+      },
+      "projects": [
+        {
+          "image": "uav_swarm_ai.jpg",
+          "name": {
+            "cs": "Vývoj řídicího systému a demonstrátoru pro zpracování obrazových a senzorických dat z rojů UAV zařízení s využitím strojového učení",
+            "en": "Development of a control system and demonstrator for processing image and sensor data using machine learning from swarms of UAV devices"
+          },
+          "description": {
+            "cs": "Cílem projektu je vyvinout řídicí systém a demonstrátor pro zpracování obrazových a senzorických dat z rojů UAV s využitím AI, umožňující automatickou detekci, klasifikaci a lokalizaci objektů. Projekt zahrnuje vytvoření unifikovaného komunikačního rozhraní pro interoperabilitu se systémy Armády ČR a NATO. Klíčové aplikace zahrnují nasazení ve vojenských i civilních oblastech, jako jsou záchranné a bezpečnostní složky. Projekt bude realizován s využitím moderních technologií, včetně hlubokého učení a zpracování velkých dat, s důrazem na udržitelnost a využití výsledků v dalších výzkumných programech.",
+            "en": "The aim of the project is to develop a control system and a demonstrator for processing image and sensor data from UAV swarms using AI, enabling automatic object detection, classification, and localization. The project includes creating a unified communication interface to ensure interoperability with the systems of the Czech Army and NATO. Key applications involve deployment in both military and civilian sectors, such as rescue and security forces. The project will be implemented using modern technologies, including deep learning and big data processing, focusing on sustainability and utilizing the results in subsequent research programs."
+          },
+          "years": "2025-2028"
+        },
+        {
+          "image": "tatra_hydrogen_truck.jpg",
+          "name": {
+            "cs": "Vývoj vodíkového nákladního 3 nápravového užitkového vozidla s možností automatizovaného řízení",
+            "en": "Development of a hydrogen-powered 3-axle utility truck with the possibility of automated driving"
+          },
+          "description": {
+            "cs": "Hlavním výstupem projektu je inovativní prototyp vodíkového nákladního vozidla vyvinutého na podvozkové platformě Tatra, vybaveného moderními technologiemi a možností automatizovaných režimů řízení pro efektivní a ekologický provoz.",
+            "en": "The main output of the project is an innovative prototype of a hydrogen-powered truck developed on the Tatra chassis platform, equipped with modern technologies and the possibility of automated driving modes for efficient and environmentally friendly operation."
+          },
+          "years": "2025-2028"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "cs": "Kvantové počítání a hybridní HPC systémy",
+        "en": "Quantum Computing and Hybrid HPC Systems"
+      },
+      "annotation": {
+        "cs": "Přecházíme od klasických vysoce výkonných výpočtů k éře kvantové akcelerace. VŠB-TUO prostřednictvím IT4Innovations hostí kvantový počítač LUMI-Q, špičkový systém založený na supravodivých kubitech. Náš výzkum se zaměřuje především na softwarovou vrstvu, vývoj algoritmů a plynulou integraci kvantových procesorů (QPU) s klasickou HPC infrastrukturou.",
+        "en": "We are transitioning from classical high-performance computing to the era of quantum acceleration. VŠB-TUO, through the IT4Innovations National Supercomputing Center, hosts the LUMI-Q quantum computer, a state-of-the-art system based on superconducting qubits. Our research focuses primarily on the software layer, algorithmic development, and the seamless integration of quantum processing units (QPUs) with classical HPC infrastructures to solve problems beyond the reach of traditional computers."
+      },
+      "keywords": {
+        "cs": [
+          "Kvantově-klasické hybridní algoritmy",
+          "Kvantová optimalizace (logistika, finance, průmyslové plánování)",
+          "Kvantová chemie a simulace materiálů na atomární úrovni",
+          "Kvantové strojové učení",
+          "Kvantové softwarové stacky a techniky zmírňování chyb"
+        ],
+        "en": [
+          "Quantum-Classical Hybrid Algorithms",
+          "Quantum Optimization",
+          "Quantum Chemistry and Material Simulation",
+          "Quantum Machine Learning",
+          "Quantum Software Stacks"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "cs": "Udržitelná energetika a environmentální technologie",
+        "en": "Sustainable Energy and Environmental Technologies"
+      },
+      "annotation": {
+        "cs": "Komplexní přístup k energetice  od těžby a zpracování surovin přes efektivní výrobu a akumulaci energie až po minimalizaci dopadů na životní prostředí. Řešíme energetickou soběstačnost, přechod na nízkoemisní a obnovitelné zdroje, využití druhotných surovin a pokročilé technologie pro ochranu ovzduší a vod.",
+        "en": "A comprehensive approach to the energy sector—from the extraction and processing of raw materials through efficient energy production and storage to minimizing environmental impacts. We address energy self-sufficiency, the transition to low-emission and renewable sources, the use of recycled materials, and advanced technologies for air and water protection."
+      },
+      "keywords": {
+        "cs": [
+          "Obnovitelné zdroje energie, vodíkové technologie a využití biomasy",
+          "Akumulace energie a Smart Grids",
+          "Dekontaminace, čištění odpadních plynů a úprava povrchových a odpadních vod",
+          "Recyklace, cirkulární ekonomika a využití odpadů (waste-to-energy)",
+          "Kritické suroviny a udržitelná těžba",
+          "Dekarbonizace průmyslu, zachycování a využití CO₂"
+        ],
+        "en": [
+          "Renewable energy sources, hydrogen technologies, and biomass utilization",
+          "Energy storage and smart grids",
+          "Decontamination, flue gas cleaning, and surface water and wastewater treatment",
+          "Recycling, the circular economy, and waste-to-energy",
+          "Critical raw materials and sustainable mining",
+          "Industrial decarbonization, CO₂ capture and utilization"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "cs": "Umělá inteligence, digitalizace a kyberneticko-fyzikální systémy",
+        "en": "Artificial Intelligence, Digitalization, and Cyber-Physical Systems"
+      },
+      "annotation": {
+        "cs": "Digitální transformace světa prostřednictvím dat. Zaměřujeme se na zpracování extrémních objemů dat (Big Data), superpočítačové simulace a aplikovanou umělou inteligenci, která mění průmysl i společnost.",
+        "en": "Digital transformation of the world through data. We focus on processing extreme volumes of data (Big Data), supercomputing simulations, and applied AI that transforms both industry and society."
+      },
+      "keywords": {
+        "cs": [
+          "High Performance Computing (HPC) a kvantové počítání",
+          "Strojové učení, neuronové sítě a AI",
+          "Digitální dvojčata pro simulaci procesů",
+          "Internet věcí (IoT) a komunikační sítě 5G/6G",
+          "Pokročilá vizualizace a analýza Big Data"
+        ],
+        "en": [
+          "High Performance Computing (HPC) and quantum computing",
+          "Machine learning, neural networks, and AI",
+          "Digital Twins for process simulations",
+          "Internet of Things (IoT) and 5G/6G communication networks",
+          "Advanced visualization and Big Data analysis"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "cs": "Pokročilé materiály a materiálové technologie",
+        "en": "Advanced Materials and Material Technologies"
+      },
+      "annotation": {
+        "cs": "Výzkum na hranici fyzikálních možností. Vyvíjíme materiály s unikátními vlastnostmi pro extrémní podmínky, energetiku a medicínu – od atomární struktury až po průmyslovou výrobu.",
+        "en": "Research at the limit of physical possibilities. We develop materials with unique properties for extreme conditions, energy, and medicine—from atomic structure to industrial production."
+      },
+      "keywords": {
+        "cs": [
+          "Nanomateriály a nanotechnologie",
+          "Materiály pro ukládání energie a vodík",
+          "Aditivní výroba (3D tisk) kovů a polymerů",
+          "Biodegradabilní a biokompatibilní materiály",
+          "Vývoj kompozitů a materiálů pro extrémní zatížení"
+        ],
+        "en": [
+          "Nanomaterials and nanotechnology",
+          "Materials for energy storage and hydrogen",
+          "Additive manufacturing (3D printing) of metals and polymers",
+          "Biodegradable and biocompatible materials",
+          "Development of composites and materials for extreme loads"
+        ]
+      },
+      "contact": {
+        "photo": "zboril.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/radek-zboril/",
+        "cs": [
+          {
+            "name": "prof. RNDr. Radek Zbořil, Ph.D.",
+            "email": "radek.zboril@vsb.cz",
+            "bio": "Nejvíce citovaný materiálový vědec v České republice (2022–2025) podle Research.com, opakovaně jmenován Highly Cited Researcher společností Clarivate. Působil v hodnotící komisi ERC Advanced Grant a v redakčních radách časopisů vydávaných společnostmi Springer Nature, Wiley a Elsevier. Jeho výzkum se zaměřuje na nízkorozměrné materiály a nanotechnologie s aplikacemi v energetice, katalýze, biomedicíně a environmentálních technologiích. Získal řadu ocenění, včetně Ceny ministra školství ČR a Prince Sultan Bin Abdulaziz International Prize for Water, udělované pod záštitou generálního tajemníka OSN. Je spoluautorem několika evropských patentů a licencovaných technologií pro úpravu vody a biomedicínu. Podle Google Scholar je autorem více než 600 publikací s více než 86 000 citacemi (h-index 135)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prof. RNDr. Radek Zbořil, Ph.D.",
+            "email": "radek.zboril@vsb.cz",
+            "bio": "The most cited materials scientist in the Czech Republic (2022–2025), according to Research.com, and has been repeatedly named a Highly Cited Researcher by Clarivate. He has served on the ERC Advanced Grant Evaluation Panel and on editorial boards for journals published by Springer Nature, Wiley, and Elsevier. His research focuses on low-dimensional materials and nanotechnology, with applications in energy, catalysis, biomedicine, and environmental technologies. He has received numerous awards, including the Czech Minister of Education’s Prize and the Prince Sultan Bin Abdulaziz International Prize for Water, awarded under the patronage of the UN Secretary-General. He is a co-inventor of several European patents and licensed technologies in water treatment and biomedicine. According to Google Scholar, he has authored over 600 publications, with more than 86,000 citations (h-index 135)."
+          }
+        ]
+      }
+
+    },
+    {
+      "id": 8,
+      "name": {
+        "cs": "Robotika, automatizace a Průmysl 4.0",
+        "en": "Robotics, Automation, and Industry 4.0"
+      },
+      "annotation": {
+        "cs": "Budoucnost výroby. Nahrazujeme manuální práci inteligentními stroji, které spolupracují s lidmi (kolaborativní robotika) a činí nezávislá rozhodnutí na základě dat.",
+        "en": "The future of manufacturing. We replace manual labor with intelligent machines that collaborate with humans (collaborative robotics) and make independent decisions based on data."
+      },
+      "keywords": {
+        "cs": [
+          "Průmyslová a servisní robotika",
+          "Mechatronika a řídicí systémy",
+          "Prediktivní údržba a diagnostika",
+          "Plně automatizované výrobní linky",
+          "Interakce člověka s robotem (kobotika)"
+        ],
+        "en": [
+          "Industrial and service robotics",
+          "Mechatronics and control systems",
+          "Predictive maintenance and diagnostics",
+          "Fully automated production lines",
+          "Human-robot interaction (cobotics)"
+        ]
+      },
+      "contact": {
+        "photo": "mahdal.jpg",
+        "cs": [
+          {
+            "name": "doc. Ing. Miroslav Mahdal, Ph.D.",
+            "email": "miroslav.mahdal@vsb.cz",
+            "bio": "Koordinátor aktivit v oblasti robotiky, automatizace a Průmyslu 4.0 se zaměřením na implementaci moderních technologií do průmyslového prostředí. Specializuje se na integraci pokročilých technologií, podporu inovací a budování spolupráce mezi výzkumem, průmyslem a technologickými partnery."
+          }
+        ],
+        "en": [
+          {
+            "name": "Assoc. Prof. Ing. Miroslav Mahdal, Ph.D.",
+            "email": "miroslav.mahdal@vsb.cz",
+            "bio": "Coordinator of activities in the field of robotics, automation, and Industry 4.0, focusing on the implementation of modern technologies in the industrial environment. He specializes in the integration of advanced technologies, support for innovation, and building collaboration between research, industry, and technology partners."
+          }
+        ]
+      }
+
+    },
+    {
+      "id": 9,
+      "name": {
+        "cs": "Bezpečnost a společenská resilience",
+        "en": "Safety and Societal Resilience"
+      },
+      "annotation": {
+        "cs": "Ochrana životů, infrastruktury a dat. Zkoumáme, jak předcházet katastrofám (požáry, výbuchy, kyberútoky) a jak zajistit, aby společnost i technologie odolaly krizovým situacím.",
+        "en": "Protection of lives, infrastructure, and data. We investigate how to prevent disasters (fires, explosions, cyber-attacks) and ensure that society and technology can withstand crisis situations."
+      },
+      "keywords": {
+        "cs": [
+          "Požární inženýrství a průmyslová bezpečnost",
+          "Ochrana kritické infrastruktury a obranný výzkum",
+          "Kybernetická bezpečnost a krizové řízení",
+          "Resilience území a environmentální rizika",
+          "Sociální resilience a ochrana obyvatelstva"
+        ],
+        "en": [
+          "Fire engineering and industrial safety",
+          "Protection of critical infrastructure and defense research",
+          "Cybersecurity and crisis management",
+          "Territorial resilience and environmental risks",
+          "Social resilience and protection of the population"
+        ]
+      },
+      "contact": {
+        "photo": "jankuj.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/stanislav-michalek/",
+        "cs": [
+          {
+            "name": "Ing. Vojtěch Jankůj, Ph.D.",
+            "email": "vojtech.jankuj@vsb.cz",
+            "bio" : "Odborník na bezpečnost technologií a ochranu před výbuchem. Zastřešuje mezioborovou spolupráci v oblasti bezpečnostního výzkumu a koordinuje strategické aktivity univerzity směřující k posílení celospolečenské odolnosti."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ing. Vojtěch Jankůj, Ph.D.",
+            "email": "vojtech.jankuj@vsb.cz",
+            "bio" : "Expert in technology safety and explosion protection. Oversees interdisciplinary collaboration in the field of safety research and coordinates the university's strategic activities aimed at strengthening societal resilience."          
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": {
+        "cs": "Chytrá mobilita a dopravní systémy",
+        "en": "Smart Mobility and Transport Systems"
+      },
+      "annotation": {
+        "cs": "Revoluce v pohybu osob a zboží. Vyvíjíme vozidla budoucnosti a systémy, které řídí městskou dopravu efektivně, bezpečně a autonomně.",
+        "en": "A revolution in the movement of people and goods. We develop vehicles of the future and systems that manage urban traffic efficiently, safely, and autonomously."
+      },
+      "keywords": {
+        "cs": [
+          "Autonomní řízení a systémy vozidel",
+          "Elektromobilita a alternativní pohony",
+          "Logistika a telematika",
+          "Konstrukce dopravních prostředků (např. Formula Student)",
+          "Inteligentní dopravní systémy pro chytrá města"
+        ],
+        "en": [
+          "Autonomous driving and vehicle systems",
+          "Electromobility and alternative drives",
+          "Logistics and telematics",
+          "Design of transport vehicles (e.g., Formula Student)",
+          "Intelligent transport systems for smart cities"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": {
+        "cs": "Biomedicínské inženýrství a zdraví",
+        "en": "Biomedical Engineering and Health"
+      },
+      "annotation": {
+        "cs": "Technologie ve službách zdraví. Spojujeme inženýrství s medicínou pro vývoj nových diagnostických metod, senzorů, nanorobotů a rehabilitačních pomůcek.",
+        "en": "Technology at the service of health. We combine engineering with medicine to develop new diagnostic methods, sensors, nanorobots and rehabilitation aids."
+      },
+      "keywords": {
+        "cs": [
+          "Biomedicínské senzory a zpracování signálů",
+          "Nanorobotika pro cílenou distribuci léčiv",
+          "Biomechanika a asistenční technologie",
+          "Analýza lékařských dat a telemedicína",
+          "Chytré implantáty a chirurgické robotické systémy"
+        ],
+        "en": [
+          "Biomedical sensors and signal processing",
+          "Nanorobotics for targeted drug delivery",
+          "Biomechanics and assistive technologies",
+          "Medical data analysis and telemedicine",
+          "Smart implants and surgical robotic systems"
+        ]
+      },
+      "contact": {
+        "photo": "kahankova.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/radana-vilimkova-kahankova/",
+        "cs": [
+          {
+            "name": "doc. Ing. Radana Vilímková Kahánková, Ph.D.",
+            "email": "radana.vilimkova.kahankova@vsb.cz",
+            "bio": "Výzkumnice v oblasti biomedicínského inženýrství se zaměřením na zpracování biosignálů, umělou inteligenci a multimodální analýzu dat pro zdravotnické aplikace. Působí na Fakultě elektrotechniky a informatiky VŠB-TUO a dlouhodobě spolupracuje s Fakultní nemocnicí Ostrava i zahraničními partnery. Je předsedkyní Etické komise pro biomedicínský výzkum a podporuje mezioborovou spolupráci napříč univerzitou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Assoc. Prof. Ing. Radana Vilímková Kahánková, Ph.D.",
+            "email": "radana.vilimkova.kahankova@vsb.cz",
+            "bio": "Researcher in the field of biomedical engineering, focusing on biosignal processing, artificial intelligence, and multimodal data analysis for healthcare applications. She works at the Faculty of Electrical Engineering and Computer Science at VŠB-TUO and collaborates long-term with the University Hospital Ostrava and international partners. She is the chair of the Ethics Committee for Biomedical Research and supports interdisciplinary collaboration across the university."
+          }
+        ]
+      }
+
+    },
+    {
+      "id": 12,
+      "name": {
+        "cs": "Ekonomika, management a rozhodování",
+        "en": "Economics, Management, and Decision-Making"
+      },
+      "annotation": {
+        "cs": "Mozek a nervová soustava inovací. Poskytujeme nástroje pro efektivní řízení firem i státu, analyzujeme ekonomické dopady technologií a optimalizujeme rozhodovací procesy v nejisté době.",
+        "en": "The brain and nervous system of innovation. We provide tools for the effective management of companies and the state, analyze the economic impacts of technologies, and optimize decision-making processes in uncertain times."
+      },
+      "keywords": {
+        "cs": [
+          "Strategické řízení a optimalizace procesů",
+          "Finanční modelování a analýza rizik",
+          "Ekonomika energetiky a klimatických změn",
+          "Behaviorální ekonomie a management",
+          "Analýza dopadů nových technologií na trh práce"
+        ],
+        "en": [
+          "Strategic management and process optimization",
+          "Financial modeling and risk analysis",
+          "Energy economics and climate change",
+          "Behavioral economics and management",
+          "Analysis of the impacts of new technologies on the labor market"
+        ]
+      },
+      "contact": {
+        "photo": "melecky.jpg",
+        "profileUrl": "https://www.vsb.cz/en/staff/ales-melecky/",
+        "cs": [
+          {
+            "name": "doc. Ing. Melecký Aleš, Ph.D.",
+            "email": "ales.melecky@vsb.cz",
+            "bio": "Zkušený akademik působící v oblastech ekonomie a financí, zabývající se zejména aplikací vlivu hospodářských politik na jednotlivé oblasti ekonomiky se zkušenostmi ze zahraničí. Ve svém výzkumu a v rámci projektů se věnuje ekonomickému modelování, behaviorální ekonomii, cenám nemovitostí, klimatické a energetické politice, ekonomice dopravy či problematice vládního financování."
+          }
+        ],
+        "en": [
+          {
+            "name": "Assoc. Prof. Ing. Aleš Melecký, Ph.D.",
+            "email": "ales.melecky@vsb.cz",
+            "bio": "An experienced academic working in the fields of economics and finance, particularly dealing with the application of the impact of economic policies on various areas of the economy with experience abroad. In his research and within projects, he focuses on economic modeling, behavioral economics, real estate prices, climate and energy policy, transport economics, and government financing issues."
+          }
+        ]
+      }
+    }
+  ]
+}

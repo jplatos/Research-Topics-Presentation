@@ -10,6 +10,7 @@ title: Výzkumné směry univerzity
 <!-- SLIDE 1: Úvodní stránka s obrázkem na pozadí -->
 <div class="bg-black/15 p-5 rounded-lg backdrop-blur-sm inline-block">
   <h1 class="text-4xl font-extrabold text-white tracking-wide uppercase">Výzkumné směry univerzity</h1>
+  <h2 class="text-xl font-extrabold text-white tracking-wide uppercase">Pracovní verze</h2>
 </div>
 
 ---

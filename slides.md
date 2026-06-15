@@ -499,6 +499,26 @@ title: Pilíř 04 – Udržitelnost, bezpečnost a zdraví společnosti
 
 </div>
 
+
+---
+transition: slide-left
+title: Poděkování
+---
+
+<div class="absolute inset-0">
+  <img src="./last.jpg" class="w-full h-full object-cover" />
+  <div class="absolute inset-0 bg-black/25"></div>
+</div>
+<div class="absolute inset-x-0 top-0 flex flex-col items-center pt-16 pb-10">
+  <div class="bg-black/50 backdrop-blur-sm rounded-2xl px-12 py-8 flex flex-col items-center gap-5">
+    <h1 class="text-6xl font-extrabold text-white tracking-wide">Děkuji za pozornost</h1>
+    <div class="w-24 h-1 rounded bg-[#00A499]"></div>
+    <p class="text-xl text-neutral-100">Prototyp webových stránek naleznete na </p>
+    <a href="https://www.janplatos.cz/vav/" class="text-[#00A499] text-2xl font-semibold hover:underline">www.janplatos.cz/vav</a>
+  </div>
+</div>
+
+
 ---
 layout: topic
 transition: slide-left
